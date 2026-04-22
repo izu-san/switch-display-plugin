@@ -1,0 +1,12 @@
+{
+  "ID": "3E5957B6F06D4E69B3C1E29B2040EC74",
+  "ActionKeyword": "md",
+  "Name": "Switch Main Display",
+  "Description": "Switch the Windows main display from Flow Launcher.",
+  "Author": "smuro",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/smuro/SwitchDisplayPlugin",
+  "IcoPath": "",
+  "ExecuteFileName": "SwitchDisplayPlugin.dll"
+}
